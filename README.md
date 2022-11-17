@@ -1,7 +1,7 @@
 
 ![](https://github.com/omkar199/omkar199/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm omkar udhane</h1>
-<h3 align="center">full stack blockchain developer</h3>
+<h3 align="center">full stack developer</h3>
 
 <p align="left"> <a href="https://twitter.com/i_omkarudhane" target="blank"><img src="https://img.shields.io/twitter/follow/i_omkarudhane?logo=twitter&style=for-the-badge" alt="i_omkarudhane" /></a> </p>
 
